@@ -1,0 +1,6 @@
+[submodule "dynamic-tables-python"]
+	path = dynamic-tables-python
+	url = https://github.com/scottrodeo/dynamic-tables-python
+[submodule "dynamic-tables-java"]
+	path = dynamic-tables-java
+	url = https://github.com/scottrodeo/dynamic-tables-java

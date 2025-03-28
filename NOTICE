@@ -1,0 +1,11 @@
+Dynamic Tables (Umbrella Project)
+Copyright 2025 Scott Forsberg
+
+This repository links to language-specific implementations of the Dynamic Tables library:
+
+- Python version: https://github.com/scottrodeo/dynamic-tables-python
+- Java version:   https://github.com/scottrodeo/dynamic-tables-java
+
+Licensed under the Apache License, Version 2.0.
+See the LICENSE file for details.
+
