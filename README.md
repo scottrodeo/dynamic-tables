@@ -4,7 +4,7 @@
 
 A cross-language library for dynamically generating and managing PostgreSQL tables at runtime — based on input data.
 
-This project includes both Python and Java implementations:
+This project includes both Python and Java implementations.
 
 ---
 
@@ -13,7 +13,7 @@ This project includes both Python and Java implementations:
 | Language | Repository | Package Info |
 |----------|------------|--------------|
 | 🐍 Python | [dynamic-tables-python](https://github.com/scottrodeo/dynamic-tables-python) | Install via `pip install dynamic-tables` |
-| ☕ Java   | [dynamic-tables-java](https://github.com/scottrodeo/dynamic-tables-java)       | Install manually or via Maven (coming soon) |
+| ☕ Java   | [dynamic-tables-java](https://github.com/scottrodeo/dynamic-tables-java)       | [View on Maven Central](https://central.sonatype.com/artifact/io.github.scottrodeo/dynamic-tables) · Install via Maven/Gradle |
 
 ---
 
@@ -34,7 +34,7 @@ This project includes both Python and Java implementations:
 | 🟡 Modular config system               | ✅ Partial      | ⏳ Planned     | 🚧 In Progress |
 | 🔵 JSON config file support            | ✅ Done         | ⏳ Planned     | 🚧 In Progress |
 | 🧪 Test suite w/ CI                    | ⏳ In Progress  | ⏳ In Progress | 🔧 Draft       |
-| 📦 Package registry deployment         | ✅ PyPI         | ⏳ Sonatype    | 🔜 Coming Soon |
+| 📦 Package registry deployment         | ✅ PyPI         | ✅ Maven Central | 🚀 Released    |
 | 📖 Improved documentation              | ✅ Basic README | ✅ Basic README| 🔄 Ongoing     |
 | 🌐 Website or API docs                 | ❌ Not started  | ❌ Not started | 💤 Backlog     |
 
@@ -44,7 +44,8 @@ This project includes both Python and Java implementations:
 
 ## 🌱 Want to Contribute?
 
-Pull requests are welcome on either implementation! Check the individual repos for contribution guides and roadmaps.
+Pull requests are welcome on either implementation!  
+Check the individual repos for contribution guides and roadmaps.
 
 ---
 
